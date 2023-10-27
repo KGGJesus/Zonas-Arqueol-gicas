@@ -1,0 +1,618 @@
+[
+    {
+        "consecutivo": "9",
+        "entidad": "Campeche",
+        "zona_arqueologica": "Balamk ",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "10",
+        "entidad": "Campeche",
+        "zona_arqueologica": "Bec n",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "11",
+        "entidad": "Campeche",
+        "zona_arqueologica": "Chicann ",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "12",
+        "entidad": "Campeche",
+        "zona_arqueologica": "Chunhuhub",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "13",
+        "entidad": "Campeche",
+        "zona_arqueologica": "Calakmul",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "14",
+        "entidad": "Campeche",
+        "zona_arqueologica": "Dzibilnocac",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "15",
+        "entidad": "Campeche",
+        "zona_arqueologica": "Edzn ",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "16",
+        "entidad": "Campeche",
+        "zona_arqueologica": "Hochob",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "17",
+        "entidad": "Campeche",
+        "zona_arqueologica": "Hormiguero",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "18",
+        "entidad": "Campeche",
+        "zona_arqueologica": "Kank ",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "19",
+        "entidad": "Campeche",
+        "zona_arqueologica": "Nadzca'an",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Cerrada"
+    },
+    {
+        "consecutivo": "20",
+        "entidad": "Campeche",
+        "zona_arqueologica": "Tabasque o",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "21",
+        "entidad": "Campeche",
+        "zona_arqueologica": "El Tigre",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "22",
+        "entidad": "Campeche",
+        "zona_arqueologica": "Tohcok",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "23",
+        "entidad": "Campeche",
+        "zona_arqueologica": "Xcalumk n",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "24",
+        "entidad": "Campeche",
+        "zona_arqueologica": "Xpuhil",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "25",
+        "entidad": "Campeche",
+        "zona_arqueologica": "Santa Rosa Xtampak",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "26",
+        "entidad": "Chiapas",
+        "zona_arqueologica": "Bonampak",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "27",
+        "entidad": "Chiapas",
+        "zona_arqueologica": "Chinkultic",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "28",
+        "entidad": "Chiapas",
+        "zona_arqueologica": "Chiapa de Corzo",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "29",
+        "entidad": "Chiapas",
+        "zona_arqueologica": "Iglesia Vieja",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "30",
+        "entidad": "Chiapas",
+        "zona_arqueologica": "Izapa",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "31",
+        "entidad": "Chiapas",
+        "zona_arqueologica": "Lagartero",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "32",
+        "entidad": "Chiapas",
+        "zona_arqueologica": "Palenque",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "33",
+        "entidad": "Chiapas",
+        "zona_arqueologica": "Tenam-Puente",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "34",
+        "entidad": "Chiapas",
+        "zona_arqueologica": "Tonin ",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "35",
+        "entidad": "Chiapas",
+        "zona_arqueologica": "Yaxchil n",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "130",
+        "entidad": "Quintana Roo",
+        "zona_arqueologica": "Caracol-Punta Sur",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Cerrada"
+    },
+    {
+        "consecutivo": "131",
+        "entidad": "Quintana Roo",
+        "zona_arqueologica": "Chacchoben",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "132",
+        "entidad": "Quintana Roo",
+        "zona_arqueologica": "Chakanbak n",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Cerrada"
+    },
+    {
+        "consecutivo": "133",
+        "entidad": "Quintana Roo",
+        "zona_arqueologica": "Calica",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Cerrada"
+    },
+    {
+        "consecutivo": "134",
+        "entidad": "Quintana Roo",
+        "zona_arqueologica": "Cob ",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "135",
+        "entidad": "Quintana Roo",
+        "zona_arqueologica": "Playa del Carmen",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Cerrada"
+    },
+    {
+        "consecutivo": "136",
+        "entidad": "Quintana Roo",
+        "zona_arqueologica": "Dzibanch ",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "137",
+        "entidad": "Quintana Roo",
+        "zona_arqueologica": "San Gervasio",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "138",
+        "entidad": "Quintana Roo",
+        "zona_arqueologica": "Kinichn ",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "139",
+        "entidad": "Quintana Roo",
+        "zona_arqueologica": "Kohunlich",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "140",
+        "entidad": "Quintana Roo",
+        "zona_arqueologica": "El Meco",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "141",
+        "entidad": "Quintana Roo",
+        "zona_arqueologica": "San Miguelito",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "142",
+        "entidad": "Quintana Roo",
+        "zona_arqueologica": "Muyil",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "143",
+        "entidad": "Quintana Roo",
+        "zona_arqueologica": "Oxtankah",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "144",
+        "entidad": "Quintana Roo",
+        "zona_arqueologica": "El Rey",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "145",
+        "entidad": "Quintana Roo",
+        "zona_arqueologica": "Tulum",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "146",
+        "entidad": "Quintana Roo",
+        "zona_arqueologica": "Xcaret",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "147",
+        "entidad": "Quintana Roo",
+        "zona_arqueologica": "Xelh ",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "148",
+        "entidad": "San Luis Potos ",
+        "zona_arqueologica": "Tamtoc",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "149",
+        "entidad": "San Luis Potos ",
+        "zona_arqueologica": "Tamohi",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "150",
+        "entidad": "Sinaloa",
+        "zona_arqueologica": "Las Labradas",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "151",
+        "entidad": "Sonora",
+        "zona_arqueologica": "Cerro de Trincheras",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "152",
+        "entidad": "Tabasco",
+        "zona_arqueologica": "Comalcalco",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "153",
+        "entidad": "Tabasco",
+        "zona_arqueologica": "Malpasito",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "154",
+        "entidad": "Tabasco",
+        "zona_arqueologica": "Moral Reforma",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "155",
+        "entidad": "Tabasco",
+        "zona_arqueologica": "Pomon ",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "156",
+        "entidad": "Tabasco",
+        "zona_arqueologica": "La Venta",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "157",
+        "entidad": "Tamaulipas",
+        "zona_arqueologica": "Las Flores",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "158",
+        "entidad": "Tamaulipas",
+        "zona_arqueologica": "Balc n de Montezuma",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "159",
+        "entidad": "Tamaulipas",
+        "zona_arqueologica": "El Sabinito",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "160",
+        "entidad": "Tlaxcala",
+        "zona_arqueologica": "Cacaxtla-Xochit catl",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "161",
+        "entidad": "Tlaxcala",
+        "zona_arqueologica": "Ocotelulco",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Cerrada"
+    },
+    {
+        "consecutivo": "162",
+        "entidad": "Tlaxcala",
+        "zona_arqueologica": "Tecoaque",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "163",
+        "entidad": "Tlaxcala",
+        "zona_arqueologica": "Tizatl n",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "164",
+        "entidad": "Veracruz",
+        "zona_arqueologica": "Cempoala",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "165",
+        "entidad": "Veracruz",
+        "zona_arqueologica": "Castillo de Teayo",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "166",
+        "entidad": "Veracruz",
+        "zona_arqueologica": "Cuajilote",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "167",
+        "entidad": "Veracruz",
+        "zona_arqueologica": "Cuyuxquihui",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "168",
+        "entidad": "Veracruz",
+        "zona_arqueologica": "Las Higueras",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "169",
+        "entidad": "Veracruz",
+        "zona_arqueologica": "San Lorenzo Tenochtitlan",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "170",
+        "entidad": "Veracruz",
+        "zona_arqueologica": "Quiahuiztlan",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "171",
+        "entidad": "Veracruz",
+        "zona_arqueologica": "El Taj n",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "172",
+        "entidad": "Veracruz",
+        "zona_arqueologica": "Vega de la Pe a",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "173",
+        "entidad": "Veracruz",
+        "zona_arqueologica": "Tres Zapotes",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "174",
+        "entidad": "Yucat n",
+        "zona_arqueologica": "Acanceh",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "175",
+        "entidad": "Yucat n",
+        "zona_arqueologica": "Ake",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "176",
+        "entidad": "Yucat n",
+        "zona_arqueologica": "Balamcanch ",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "177",
+        "entidad": "Yucat n",
+        "zona_arqueologica": "Chacmult n",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "178",
+        "entidad": "Yucat n",
+        "zona_arqueologica": "Chich n Itz ",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "179",
+        "entidad": "Yucat n",
+        "zona_arqueologica": "Dzibilchalt n",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "180",
+        "entidad": "Yucat n",
+        "zona_arqueologica": "Ek Balam",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "181",
+        "entidad": "Yucat n",
+        "zona_arqueologica": "Izamal",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "182",
+        "entidad": "Yucat n",
+        "zona_arqueologica": "Kabah",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "183",
+        "entidad": "Yucat n",
+        "zona_arqueologica": "Labn ",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "184",
+        "entidad": "Yucat n",
+        "zona_arqueologica": "Lolt n",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "185",
+        "entidad": "Yucat n",
+        "zona_arqueologica": "Mayap n",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "186",
+        "entidad": "Yucat n",
+        "zona_arqueologica": "Oxkintok",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "187",
+        "entidad": "Yucat n",
+        "zona_arqueologica": "Sayil",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "188",
+        "entidad": "Yucat n",
+        "zona_arqueologica": "Uxmal",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "189",
+        "entidad": "Yucat n",
+        "zona_arqueologica": "Xlapak",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    },
+    {
+        "consecutivo": "190",
+        "entidad": "Yucat n",
+        "zona_arqueologica": "Xcamb ",
+        "responsable": "Centro INAH",
+        "condiciones_de_visita": "Abierta"
+    }
+]
